@@ -32,7 +32,7 @@ This project is a **City Tour Website** that provides users with information abo
 ## Snapshots
 Below are some snapshots of the website:
 
-![Home Page](path/to/homepage-screenshot.png)
+![Home Page](https://github.com/RohitKhadangle/City-Tour-Website-Admin-Panel/blob/main/ss)
 
 ## Contributing
 Contributions are welcome! To contribute:
